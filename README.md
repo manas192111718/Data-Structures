@@ -1,6 +1,6 @@
 # Data-Structures
 List of Programs
-1.Write a C program to perform Matrix Multiplication
+1.Write a C program to perform Matrix Multiplication.
 2.Write a C program to find Odd or Even number from a given set of numbers
 3.Write a C program to find Factorial of a given number without using Recursion
 4.Write a C program to find Fibonacci series without using Recursion
