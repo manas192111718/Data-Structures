@@ -98,7 +98,7 @@ List of Programs
 
 
 
-19Write a C program to implement Heap sort.
+19.Write a C program to implement Heap sort.
 
 
 
